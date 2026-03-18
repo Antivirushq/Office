@@ -487,6 +487,7 @@ nav.navbar.bootsnav.no-background{
     width: 100%;
     left: 0;
     top: 0;
+	display: none;
 }
 
 .wrap-sticky nav.navbar.bootsnav.sticked{
